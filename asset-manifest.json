@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gh-clients-control/static/css/main.a617e044.chunk.css",
+    "main.js": "/gh-clients-control/static/js/main.0c1d1641.chunk.js",
+    "main.js.map": "/gh-clients-control/static/js/main.0c1d1641.chunk.js.map",
+    "runtime-main.js": "/gh-clients-control/static/js/runtime-main.ac46eca9.js",
+    "runtime-main.js.map": "/gh-clients-control/static/js/runtime-main.ac46eca9.js.map",
+    "static/js/2.5b3ac4c1.chunk.js": "/gh-clients-control/static/js/2.5b3ac4c1.chunk.js",
+    "static/js/2.5b3ac4c1.chunk.js.map": "/gh-clients-control/static/js/2.5b3ac4c1.chunk.js.map",
+    "index.html": "/gh-clients-control/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/gh-clients-control/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.5b3ac4c1.chunk.js.LICENSE.txt": "/gh-clients-control/static/js/2.5b3ac4c1.chunk.js.LICENSE.txt",
+    "static/media/calen.634c9d19.svg": "/gh-clients-control/static/media/calen.634c9d19.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac46eca9.js",
+    "static/js/2.5b3ac4c1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0c1d1641.chunk.js"
+  ]
+}
